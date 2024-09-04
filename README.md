@@ -1,5 +1,5 @@
 ### Create Session 
-menggunakan library telethon
+•menggunakan library telethon
 •create session menggunakan proxy
 •cek session active
 
@@ -23,3 +23,10 @@ cd CreateSessions
 ```
 pip install -r requirements.txt
 ```
+create sessions
+```
+python create.py
+```
+cek session active 
+```
+python ceksessions.py

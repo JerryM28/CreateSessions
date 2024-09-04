@@ -5,3 +5,6 @@ isi number.txt dengan nomor telegram yang mau di buat sessionsnya
 isi api id dan api hash telegram di config.json
 isi proxy di dalam scriptnya sesuaikan 
 
+git clone https://github.com/JerryM28/CreateSessions
+cd CreateSessions
+pip install -r requirements.txt

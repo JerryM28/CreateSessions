@@ -1,0 +1,7 @@
+asyncio
+os
+json
+logging
+colorama
+socks
+telethon
